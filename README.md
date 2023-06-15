@@ -1,11 +1,11 @@
 # Skrigan Dmitry
-### Frontend developer
+### :man_technologist:  Frontend developer
 
 I ❤️ **Frontend**.
 
 _Learning **Angular**..._
 
-## My Skills
+## :hammer_and_wrench: My Skills
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -21,7 +21,7 @@ _Learning **Angular**..._
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
 </div>
 
-## My Codewars stats
+## :crossed_swords: My Codewars stats:
 
 ![image](https://github.com/Skrigan/Skrigan/assets/95648150/32ba17f5-594c-4144-8520-98914f3fc4f9)
 ![image](https://github.com/Skrigan/Skrigan/assets/95648150/b1a3266f-6c50-4039-b34a-1c92aeacb203)
