@@ -28,8 +28,9 @@ _Learning **Angular**..._
 
 ## :art: My Projects
 
-- #### [SongBird](https://skrigan.github.io/SongBird/)
-- #### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
+- ### [SongBird](https://skrigan.github.io/SongBird/)
+- ### [Momentum](https://skrigan.github.io/momentum-extension/)
+- ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 
 
 <!--
