@@ -1,7 +1,7 @@
 # Skrigan Dmitry
-### :man_technologist:  Frontend developer
+### :man_technologist:  Web developer
 
-I ❤️ **Frontend**.
+I ❤️ **Web**.
 
 _Learning **Angular**..._
 
@@ -31,7 +31,7 @@ _Learning **Angular**..._
 - ### [SongBird](https://skrigan.github.io/SongBird/)
 - ### [Momentum](https://skrigan.github.io/momentum-extension/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
-- ### [Sea battle](https://skrigan.github.io/rs-clone/)
+//- ### [Sea battle](https://skrigan.github.io/rs-clone/)
 
 <!--
 **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
