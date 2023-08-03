@@ -31,9 +31,7 @@ _Learning **Angular**..._
 - ### [SongBird](https://skrigan.github.io/SongBird/)
 - ### [Momentum](https://skrigan.github.io/momentum-extension/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
-//- ### [Sea battle](https://skrigan.github.io/rs-clone/)
-
-<!--
+<!-- ### [Sea battle](https://skrigan.github.io/rs-clone/)
 **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
