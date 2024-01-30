@@ -29,7 +29,7 @@ _Learning **Angular**..._
 ## :art: My Projects
 
 - ### [SongBird](https://skrigan.github.io/SongBird/)
-- ### [Momentum](https://skrigan.github.io/momentum-extension/)
+<!--- ### [Momentum](https://skrigan.github.io/momentum-extension/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
 <!-- ### [Sea battle](https://skrigan.github.io/rs-clone/)
