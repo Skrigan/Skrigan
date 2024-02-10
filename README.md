@@ -26,12 +26,19 @@ I ❤️ **Web**.
 
 ## :art: My Projects
 
-- ### [Momentum](https://skrigan.github.io/momentum-extension/)
-- ### [SongBird](https://skrigan.github.io/SongBird/)
+<!-- - ### [Momentum](https://skrigan.github.io/momentum-extension/)
+- ### [Song Bird](https://skrigan.github.io/SongBird/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
 - ### [Cinema Hub](https://skrigan.github.io/CinemaHub)
-<a href="http://example.com" target="_blank">Link</a>
+-->
+<ul style="font-size: 20px; font-weight: 700;">
+<li><a href="https://skrigan.github.io/momentum-extension/" target="_blank">Momentum</a></li>
+<li><a href="https://skrigan.github.io/SongBird/" target="_blank">Song Bird</a></li>
+<li><a href="https://skrigan.github.io/Gem-Puzzle/" target="_blank">Gem Puzzle</a></li>
+<li><a href="https://ocean-conquest-production.up.railway.app/" target="_blank">Ocean Conquest</a></li>
+<li><a href="https://skrigan.github.io/CinemaHub/" target="_blank">Cinema Hub</a></li>
+</ul>
 
 <!-- **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
