@@ -31,6 +31,7 @@ I ❤️ **Web**.
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
 - ### [Cinema Hub](https://skrigan.github.io/CinemaHub)
+<a href="http://example.com" target="_blank">Link</a>
 
 <!-- **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
