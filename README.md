@@ -3,8 +3,6 @@
 
 I ❤️ **Web**.
 
-_Learning **Angular**..._
-
 ## :hammer_and_wrench: My Skills
 
 <div>
@@ -18,7 +16,7 @@ _Learning **Angular**..._
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="ExpressJS" alt="ExpressJS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp; -->
 </div>
 
 ## :crossed_swords: My Codewars stats
