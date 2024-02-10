@@ -30,7 +30,7 @@ I ❤️ **Web**.
 - ### [Song Bird](https://skrigan.github.io/SongBird/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
-- ### [Cinema Hub](https://skrigan.github.io/CinemaHub)
+- ### [Cinema Hub](https://skrigan.github.io/CinemaHub/)
 
 <!-- **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
