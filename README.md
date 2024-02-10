@@ -1,5 +1,5 @@
 # Dmitry Skrigan
-### :man_technologist:  Web developer
+### :man_technologist:  Front End Developer
 
 I ❤️ **Web**.
 
@@ -26,11 +26,12 @@ I ❤️ **Web**.
 
 ## :art: My Projects
 
+- ### [Momentum](https://skrigan.github.io/momentum-extension/)
 - ### [SongBird](https://skrigan.github.io/SongBird/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
-<!-- ### [Sea battle](https://skrigan.github.io/rs-clone/)-->
-- ### [Momentum](https://skrigan.github.io/momentum-extension/)
+- ### [Cinema Hub](https://skrigan.github.io/CinemaHub/main)
+
 <!-- **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
