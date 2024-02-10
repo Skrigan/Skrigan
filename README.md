@@ -29,9 +29,9 @@ I ❤️ **Web**.
 - ### [SongBird](https://skrigan.github.io/SongBird/)
 - ### [Gem Puzzle](https://skrigan.github.io/Gem-Puzzle/)
 - ### [Ocean Conquest](https://ocean-conquest-production.up.railway.app/)
-<!-- ### [Sea battle](https://skrigan.github.io/rs-clone/)
+<!-- ### [Sea battle](https://skrigan.github.io/rs-clone/)-->
 - ### [Momentum](https://skrigan.github.io/momentum-extension/)
-**Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Skrigan/Skrigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
