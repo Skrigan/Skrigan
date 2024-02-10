@@ -1,4 +1,4 @@
-# Skrigan Dmitry
+# Dmitry Skrigan
 ### :man_technologist:  Web developer
 
 I ❤️ **Web**.
