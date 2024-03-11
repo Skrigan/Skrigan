@@ -22,7 +22,8 @@ I ❤️ **Web**.
 ## :crossed_swords: My Codewars stats
 
 ![image](https://github.com/Skrigan/Skrigan/assets/95648150/7972c3e5-2b98-49a0-b126-3add177ed87b)
-![image](https://github.com/Skrigan/Skrigan/assets/95648150/5de60442-6c85-4b7e-90be-59b41cd82aa6)
+![image](https://github.com/Skrigan/Skrigan/assets/95648150/8fb4637e-f126-44fc-8874-24128a21b06f)
+
 
 
 ## :art: My Projects
