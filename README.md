@@ -23,6 +23,8 @@ I ❤️ **Web**.
 
 ![image](https://github.com/Skrigan/Skrigan/assets/95648150/7972c3e5-2b98-49a0-b126-3add177ed87b)
 ![image](https://github.com/Skrigan/Skrigan/assets/95648150/b1a3266f-6c50-4039-b34a-1c92aeacb203)
+![image](https://github.com/Skrigan/Skrigan/assets/95648150/5de60442-6c85-4b7e-90be-59b41cd82aa6)
+
 
 ## :art: My Projects
 
